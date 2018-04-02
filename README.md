@@ -119,3 +119,4 @@ Note：请用两个浏览器分别登陆不同的用户来测试消息的即使�
 
 有什么好的建议，请在issue中提出，欢迎contributors！
 
+# RailsChat
